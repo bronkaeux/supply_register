@@ -3,6 +3,7 @@
 The customer of this project provided registers that he receives from different warehouses with data on completed deliveries to cargo recipients.
 Because employees at different warehouses are accustomed to working their own way, they provide data in a format that is convenient for them. 
 Therefore, all received data is contained in Excel tables of different formats.
+(In order to preserve commercial information, all names of organizations have been changed).
 ## Task
 An Excel file of the required format was received from the customer. 
 It is necessary to prepare, clean the data, and bring it into the correct form. 
