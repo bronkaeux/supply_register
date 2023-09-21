@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# supply_register
-=======
 # supply_register
 ## Data
 The customer of this project provided registers that he receives from different warehouses with data on completed deliveries to cargo recipients.
@@ -13,4 +10,3 @@ Fill out the customer form in the required format with the received data.
 ## Libraries
 * *pandas*
 * *openpyxl*
->>>>>>> f1322bc949576b8ac3a9eebf75965d7df211222a
